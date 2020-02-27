@@ -15,3 +15,6 @@ CREATE TABLE "nombre_tabla"(<br/>
 <img src="../imagenes/tablas5.PNG"/>
 
 <h2>Claves Primarias</h2>
+Cuando estamos creando la tabla es cuando se pone la clave primaria.<br/>
+Para ello hay que escribir al lado del tipo de dato <i>PRIMARY KEY</i><br/>
+<img src="../imagenes/ClavePrimaria.PNG"/>
