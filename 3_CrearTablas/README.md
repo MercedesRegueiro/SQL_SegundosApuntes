@@ -9,4 +9,6 @@ CREATE TABLE "nombre_tabla"(<br/>
 "columna 2" "tipo_de_datos_para_columna_2",<br/>
 ... <br/>
 );<br/>
-<--Insertar foto con ejemplo-->
+<img src="../imagenes/tablas3.PNG"/>
+<img src="../imagenes/tablas4.PNG"/>
+<img src="../imagenes/tablas5.PNG"/>
