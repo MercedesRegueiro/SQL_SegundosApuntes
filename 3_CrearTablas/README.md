@@ -1,3 +1,4 @@
+<b>ANTES DE CREAR TABLAS ES RECOMENDABLE HACER EL MODELO ENTIDAD/RELACION DE NUESTRA BASE DE DATOS.</b>
 <h1>Creacion de Tablas</h1>
 1º Entramos en la instancia creada.<br/>
 <img src="../imagenes/tablas1.PNG"/>
