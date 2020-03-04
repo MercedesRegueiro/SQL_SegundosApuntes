@@ -16,4 +16,4 @@ Despues de modificar, la tabla queda así:<br/>
 Volvemos a modificar pero esta vez modificamos dos datos a la vez.<br/>
 <img src="../imagenes/ModificarDatos4.PNG"/>
 La tabla quedaría así:<br/>
-<img src="../imagenes/ModificadorDatos5.PNG"/>
+<img src="../imagenes/ModificarDatos5.PNG"/>
