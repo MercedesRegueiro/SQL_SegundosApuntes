@@ -1,4 +1,10 @@
-<h1>Tipos de datos de Texto</h1>
+<h1>Tipos de datos</h1>
+Conocemos 4 tipos de datos diferentes:
+- Texto.<br/>
+- Numérico.<br/>
+- Fechas.<br/>
+- Boleano.<br/>
+<h2>Tipos de datos de Texto</h2>
 Para usar un dato que sea texto tenemos diferentes tipos:<br/>
 - CHAR(n): Longitud fija, está limitado. n: La longitud máxima que puede tener.<br/>
 - VARCHAR(n): Longitud variable, está limitado. n: La longitud máxima que puede tener.<br/>
