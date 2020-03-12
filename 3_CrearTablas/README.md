@@ -4,6 +4,9 @@
 <img src="../imagenes/tablas1.PNG"/>
 2º Vamos a la pestaña de <i>BROWSER</i> y ahí es donde creamos la tabla.<br/>
 <img src="../imagenes/tablas2.PNG"/>
+<h2>IMPORTANTE</h2>
+
+Para crear las tablas debemos conocer los distintos tipos de datos. Para ello vete al siguiente enlace: [Tipos de datos](3.1_TiposDatos/)<br/>
 <h2>Sintaxis para crear tabla</h2>
 CREATE TABLE "nombre_tabla"(<br/>
 "columna 1" "tipo_de_datos_para_columna_1",<br/>
