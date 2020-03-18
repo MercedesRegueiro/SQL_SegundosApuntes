@@ -25,3 +25,7 @@ Los numéricos se dividen en varios tipos:<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;3.Valores dinero<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.1 Money (8 bytes)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.2 smallmoney (4 bytes)<br/>
+<h2>Tipos de datos de Numérico</h2>
+&nbsp;&nbsp;&nbsp;&nbsp;- time: El formato sería hh:mm:ss[.nnnnnnn]<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;- date: El formato sería YYYY-MM-DD<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;- datetime: El formato sería AAAA-MM-DD hh:mm:ss[.nnn]<br/>
