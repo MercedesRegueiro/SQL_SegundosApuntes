@@ -26,6 +26,10 @@ Los numéricos se dividen en varios tipos:<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.1 Money (8 bytes)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.2 smallmoney (4 bytes)<br/>
 <h2>Tipos de datos de Numérico</h2>
+Para poner las fechas y las horas tenemos estas tres formas posibles:<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;- time: El formato sería hh:mm:ss[.nnnnnnn]<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;- date: El formato sería YYYY-MM-DD<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;- datetime: El formato sería AAAA-MM-DD hh:mm:ss[.nnn]<br/>
+<h2>Tipos de datos de Booleano</h2>
+Para decir que es booleano se utilizaría lo siguiente:
+&nbsp;&nbsp;&nbsp;&nbsp;- bit: Tiene dos valores posibles el 0 y el 1. 0 = FALSE y el 1 = TRUE.<br/>
