@@ -1,4 +1,4 @@
-# ElephantSQL_Apuntes
+# SQL_SegundosApuntes
 Pasos a seguir para usar Elephant SQL<br/>
 - [Iniciar Sesion](1_IniciarSesion/)<br/>
 - [Nueva Instancia](2_NuevaInstancia/)<br/>
