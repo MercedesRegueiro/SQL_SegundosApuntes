@@ -1,5 +1,5 @@
 # SQL_SegundosApuntes
-Pasos a seguir para usar Elephant SQL<br/>
+Vamos a usar Elephant SQL para aprender lo básico de SQL.<br/>
 - [Iniciar Sesion](1_IniciarSesion/)<br/>
 - [Nueva Instancia](2_NuevaInstancia/)<br/>
 - [Crear Tablas](3_CrearTablas/)<br/>
